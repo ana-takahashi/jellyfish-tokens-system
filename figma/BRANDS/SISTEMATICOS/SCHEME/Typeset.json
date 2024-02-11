@@ -1,0 +1,343 @@
+{
+  "jf": {
+    "font-weight": {
+      "display": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "title-bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "title-medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "body-regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "body-medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "body-bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "label": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "font-family": {
+      "brand": {
+        "value": "DM Sans",
+        "type": "fontFamilies"
+      },
+      "plain": {
+        "value": "Red Hat Text",
+        "type": "fontFamilies",
+        "description": "Secondary font family for this brand, mostly used for plain texts"
+      },
+      "alt": {
+        "value": "Fira Code",
+        "type": "fontFamilies",
+        "description": "Alternative core font family for this theme"
+      },
+      "icon": {
+        "value": "Fontello",
+        "type": "fontFamilies",
+        "description": "Font-family for icons"
+      }
+    },
+    "line-height": {
+      "xs": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "sm": {
+        "value": "130%",
+        "type": "lineHeights"
+      },
+      "md": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "lg": {
+        "value": "180%",
+        "type": "lineHeights"
+      },
+      "title": {
+        "lg": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Title Large variant"
+        },
+        "md": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Title Medium variant"
+        },
+        "sm": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Title Small variant"
+        },
+        "xs": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Title Small variant"
+        },
+        "xs2": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights"
+        },
+        "xs3": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights"
+        }
+      },
+      "display": {
+        "lg": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Display Large variant"
+        },
+        "md": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Display Medium variant"
+        },
+        "sm": {
+          "value": "{jf.line-height.xs}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Display Small variant"
+        }
+      },
+      "body": {
+        "xl": {
+          "value": "{jf.line-height.md}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Body Large variant"
+        },
+        "lg": {
+          "value": "{jf.line-height.md}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Body Large variant"
+        },
+        "md": {
+          "value": "{jf.line-height.lg}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Body Medium variant"
+        },
+        "sm": {
+          "value": "{jf.line-height.lg}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Body Small variant"
+        }
+      },
+      "label": {
+        "lg": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Label Large variant"
+        },
+        "md": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Label Medium variant"
+        },
+        "sm": {
+          "value": "{jf.line-height.sm}",
+          "type": "lineHeights",
+          "description": "Line Height used in the Typography component in its Label Small variant"
+        }
+      }
+    },
+    "letter-spacing": {
+      "title": {
+        "lg": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Title Large variant"
+        },
+        "md": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Title Medium variant"
+        },
+        "sm": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Title Small variant"
+        },
+        "xs": {
+          "value": "0",
+          "type": "letterSpacing"
+        },
+        "xs2": {
+          "value": "0",
+          "type": "letterSpacing"
+        },
+        "xs3": {
+          "value": "0",
+          "type": "letterSpacing"
+        }
+      },
+      "display": {
+        "lg": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Display Large variant"
+        },
+        "md": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Display Medium variant"
+        },
+        "sm": {
+          "value": "-0.5%",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Display Small variant"
+        }
+      },
+      "body": {
+        "xl": {
+          "value": "0",
+          "type": "letterSpacing"
+        },
+        "lg": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Body Large variant"
+        },
+        "md": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Body Medium variant"
+        },
+        "sm": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Body Small variant"
+        }
+      },
+      "label": {
+        "lg": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Label Large variant"
+        },
+        "md": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Label Medium variant"
+        },
+        "sm": {
+          "value": "0",
+          "type": "letterSpacing",
+          "description": "Letter Spacing used in the Typography component in its Label Small variant"
+        }
+      }
+    },
+    "font-size": {
+      "body": {
+        "xl": {
+          "value": "{jf.font-size.xl}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{jf.font-size.lg}",
+          "type": "fontSizes",
+          "description": "Font size for large body texts"
+        },
+        "md": {
+          "value": "1.06rem",
+          "type": "fontSizes",
+          "description": "Font size for medium body texts"
+        },
+        "sm": {
+          "value": "{jf.font-size.sm}",
+          "type": "fontSizes",
+          "description": "Font size for small body texts"
+        }
+      },
+      "label": {
+        "lg": {
+          "value": "{jf.font-size.sm}",
+          "type": "fontSizes",
+          "description": "Font size for large label texts"
+        },
+        "md": {
+          "value": "{jf.font-size.xs}",
+          "type": "fontSizes",
+          "description": "Font size for medium label texts"
+        },
+        "sm": {
+          "value": "{jf.font-size.xs2}",
+          "type": "fontSizes",
+          "description": "Font size for small label texts"
+        }
+      },
+      "display": {
+        "lg": {
+          "value": "clamp(4.5148rem, 4.1278rem + 1.9349cqi, 6.4497rem)",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "clamp(3.7623rem, 3.4399rem + 1.6124cqi, 5.3748rem)",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "clamp(3.1353rem, 2.8665rem + 1.3437cqi, 4.479rem)",
+          "type": "fontSizes"
+        }
+      },
+      "title": {
+        "lg": {
+          "value": "clamp(2.1773rem, 1.9907rem + 0.9331cqi, 3.1104rem)",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "clamp(1.8144rem, 1.6589rem + 0.7776cqi, 2.592rem)",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "clamp(1.512rem, 1.3824rem + 0.648cqi, 2.16rem)",
+          "type": "fontSizes"
+        },
+        "xs": {
+          "value": "clamp(1.26rem, 1.152rem + 0.54cqi, 1.8rem)",
+          "type": "fontSizes"
+        },
+        "xs2": {
+          "value": "{jf.font-size.md}",
+          "type": "fontSizes"
+        },
+        "xs3": {
+          "value": "{jf.font-size.sm}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "text-transform": {
+      "display": {
+        "value": "atyped",
+        "type": "textCase"
+      },
+      "body": {
+        "value": "astyped",
+        "type": "textCase"
+      },
+      "label": {
+        "value": "astyped",
+        "type": "textCase"
+      },
+      "title": {
+        "value": "astyped",
+        "type": "textCase"
+      }
+    }
+  }
+}

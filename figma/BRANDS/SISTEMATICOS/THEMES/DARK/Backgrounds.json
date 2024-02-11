@@ -1,0 +1,217 @@
+{
+  "jf": {
+    "scheme": {
+      "bg": {
+        "surface-main": {
+          "value": "{jf.scheme.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.3} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "surface-moderate": {
+          "value": "{jf.scheme.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.2} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "surface-strong": {
+          "value": "{jf.scheme.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "0.88",
+                "space": "hsl"
+              }
+            }
+          },
+          "description": "Provides visual rest and constrast agains the default background"
+        },
+        "surface-inverted": {
+          "value": "{jf.scheme.neutral}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "{jf.scheme.modifier-amount.2} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "primary": {
+          "value": "{jf.scheme.primary}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.8} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "secondary": {
+          "value": "{jf.scheme.secondary}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.5} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "success": {
+          "value": "{jf.scheme.success}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.8} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "critical": {
+          "value": "{jf.scheme.critical}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.5} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "warning": {
+          "value": "{jf.scheme.warning}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.6} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz1": {
+          "value": "{jf.scheme.dataviz1}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.8} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz2": {
+          "value": "{jf.scheme.dataviz2}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.5} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz3": {
+          "value": "{jf.scheme.dataviz3}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.5} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz4": {
+          "value": "{jf.scheme.dataviz4}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.4} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz5": {
+          "value": "{jf.scheme.dataviz5}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.5} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz6": {
+          "value": "{jf.scheme.dataviz6}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.4} ",
+                "space": "hsl"
+              }
+            }
+          }
+        },
+        "dataviz7": {
+          "value": "{jf.scheme.dataviz7}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.4} ",
+                "space": "hsl"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

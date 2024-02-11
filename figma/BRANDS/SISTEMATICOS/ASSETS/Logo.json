@@ -1,0 +1,8 @@
+{
+  "jf": {
+    "main-logo": {
+      "value": "assets/logos/jellyfish-logo.svg",
+      "type": "asset"
+    }
+  }
+}

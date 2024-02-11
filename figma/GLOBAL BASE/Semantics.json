@@ -1,0 +1,624 @@
+{
+  "jf": {
+    "border-width": {
+      "thin": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "skinny": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "medium": {
+        "value": "4",
+        "type": "borderWidth"
+      },
+      "semi-bold": {
+        "value": "6",
+        "type": "borderWidth"
+      },
+      "bold": {
+        "value": "8",
+        "type": "borderWidth"
+      }
+    },
+    "gap": {
+      "xs2": {
+        "value": "{jf.dimension.2}",
+        "type": "spacing",
+        "description": "Really small gap between itens."
+      },
+      "xs": {
+        "value": "{jf.dimension.3}",
+        "type": "spacing",
+        "description": "Small gap between itens"
+      },
+      "sm": {
+        "value": "{jf.dimension.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{jf.dimension.5}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{jf.dimension.6}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{jf.dimension.7}",
+        "type": "spacing"
+      },
+      "xl2": {
+        "value": "{jf.dimension.9}",
+        "type": "spacing"
+      },
+      "xl3": {
+        "value": "{jf.dimension.11}",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "{jf.dimension.14}",
+        "type": "spacing"
+      },
+      "none": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      },
+      "auto": {
+        "value": "AUTO",
+        "type": "spacing"
+      }
+    },
+    "padding": {
+      "xs3": {
+        "value": "{jf.dimension.1}",
+        "type": "spacing",
+        "description": "Really small gap between itens."
+      },
+      "xs2": {
+        "value": "{jf.dimension.2}",
+        "type": "spacing",
+        "description": "Really small gap between itens."
+      },
+      "xs": {
+        "value": "{jf.dimension.3}",
+        "type": "spacing",
+        "description": "Small gap between itens"
+      },
+      "sm": {
+        "value": "{jf.dimension.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{jf.dimension.5}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{jf.dimension.6}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{jf.dimension.7}",
+        "type": "spacing"
+      },
+      "xl2": {
+        "value": "{jf.dimension.9}",
+        "type": "spacing"
+      },
+      "xl3": {
+        "value": "{jf.dimension.11}",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "{jf.dimension.15}",
+        "type": "spacing"
+      },
+      "xg": {
+        "value": "{jf.dimension.16}",
+        "type": "spacing"
+      },
+      "xg2": {
+        "value": "{jf.dimension.19}",
+        "type": "spacing"
+      },
+      "xg3": {
+        "value": "{jf.dimension.20}",
+        "type": "spacing"
+      },
+      "none": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      }
+    },
+    "margin": {
+      "xs3": {
+        "value": "{jf.dimension.1}",
+        "type": "spacing",
+        "description": "Really small gap between itens."
+      },
+      "xs2": {
+        "value": "{jf.dimension.2}",
+        "type": "spacing",
+        "description": "Really small gap between itens."
+      },
+      "xs": {
+        "value": "{jf.dimension.3}",
+        "type": "spacing",
+        "description": "Small gap between itens"
+      },
+      "sm": {
+        "value": "{jf.dimension.4}",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "{jf.dimension.5}",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "{jf.dimension.6}",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "{jf.dimension.7}",
+        "type": "spacing"
+      },
+      "xl2": {
+        "value": "{jf.dimension.9}",
+        "type": "spacing"
+      },
+      "xl3": {
+        "value": "{jf.dimension.11}",
+        "type": "spacing"
+      },
+      "g": {
+        "value": "{jf.dimension.15}",
+        "type": "spacing"
+      },
+      "xg": {
+        "value": "{jf.dimension.16}",
+        "type": "spacing"
+      },
+      "xg2": {
+        "value": "{jf.dimension.19}",
+        "type": "spacing"
+      },
+      "xg3": {
+        "value": "{jf.dimension.20}",
+        "type": "spacing"
+      },
+      "none": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      }
+    },
+    "size": {
+      "width": {
+        "full": {
+          "value": "100%",
+          "type": "sizing"
+        },
+        "vp_full": {
+          "value": "100vw",
+          "type": "sizing"
+        },
+        "vp_half": {
+          "value": "50vw",
+          "type": "sizing"
+        },
+        "half": {
+          "value": "50%",
+          "type": "sizing"
+        },
+        "quarter": {
+          "value": "25%",
+          "type": "sizing"
+        },
+        "vp_quarter": {
+          "value": "25vw",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "full": {
+          "value": "100%",
+          "type": "sizing"
+        },
+        "vp_full": {
+          "value": "100vh",
+          "type": "sizing"
+        },
+        "vp_half": {
+          "value": "50vh",
+          "type": "sizing"
+        },
+        "half": {
+          "value": "50%",
+          "type": "sizing"
+        },
+        "quarter": {
+          "value": "25%",
+          "type": "sizing"
+        },
+        "vp_quarter": {
+          "value": "25vh",
+          "type": "sizing"
+        }
+      },
+      "xs5": {
+        "value": "{jf.dimension.2}",
+        "type": "sizing"
+      },
+      "xs4": {
+        "value": "{jf.dimension.3}",
+        "type": "sizing"
+      },
+      "xs3": {
+        "value": "{jf.dimension.4}",
+        "type": "sizing"
+      },
+      "xs2": {
+        "value": "{jf.dimension.5}",
+        "type": "sizing",
+        "description": "Generic extra small size for components"
+      },
+      "xs": {
+        "value": "{jf.dimension.6}",
+        "type": "sizing",
+        "description": "Generic extra small size for components"
+      },
+      "sm": {
+        "value": "{jf.dimension.7}",
+        "type": "sizing",
+        "description": "Generic small size for components"
+      },
+      "md": {
+        "value": "{jf.dimension.9}",
+        "type": "sizing",
+        "description": "Generic medium size for components"
+      },
+      "lg": {
+        "value": "{jf.dimension.10}",
+        "type": "sizing",
+        "description": "Generic large size for components"
+      },
+      "xl": {
+        "value": "{jf.dimension.11}",
+        "type": "sizing",
+        "description": "Generic extra large size for components"
+      },
+      "xl2": {
+        "value": "{jf.dimension.12}",
+        "type": "sizing",
+        "description": "Generic extra large size for components"
+      },
+      "xl3": {
+        "value": "{jf.dimension.13}",
+        "type": "sizing",
+        "description": "Generic extra large size for components"
+      },
+      "g": {
+        "value": "{jf.dimension.14}",
+        "type": "sizing"
+      },
+      "xg": {
+        "value": "{jf.dimension.15}",
+        "type": "sizing"
+      },
+      "xg2": {
+        "value": "{jf.dimension.16}",
+        "type": "sizing"
+      },
+      "xg3": {
+        "value": "{jf.dimension.17}",
+        "type": "sizing"
+      },
+      "xg4": {
+        "value": "{jf.dimension.18}",
+        "type": "sizing"
+      },
+      "xg5": {
+        "value": "{jf.dimension.19}",
+        "type": "sizing"
+      },
+      "none": {
+        "value": "{jf.dimension.0}",
+        "type": "sizing"
+      }
+    },
+    "radii": {
+      "shaped": {
+        "value": "{jf.dimension.0}",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "999px",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "{jf.dimension.1}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{jf.dimension.2}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{jf.dimension.3}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{jf.dimension.5}",
+        "type": "borderRadius"
+      }
+    },
+    "bottom-corners": {
+      "radii": {
+        "sm": {
+          "value": "{jf.radii.shaped} {jf.radii.shaped} {jf.radii.sm} {jf.radii.sm}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{jf.radii.shaped} {jf.radii.shaped} {jf.radii.md} {jf.radii.md}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{jf.radii.shaped} {jf.radii.shaped} {jf.radii.lg} {jf.radii.lg}",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "{jf.radii.shaped} {jf.radii.shaped} {jf.radii.xl} {jf.radii.xl}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "top-corners": {
+      "radii": {
+        "sm": {
+          "value": "{jf.radii.sm} {jf.radii.sm} {jf.radii.shaped} {jf.radii.shaped}",
+          "type": "borderRadius"
+        },
+        "md": {
+          "value": "{jf.radii.md} {jf.radii.md} {jf.radii.shaped} {jf.radii.shaped}",
+          "type": "borderRadius"
+        },
+        "lg": {
+          "value": "{jf.radii.lg} {jf.radii.lg} {jf.radii.shaped} {jf.radii.shaped}",
+          "type": "borderRadius"
+        },
+        "xl": {
+          "value": "{jf.radii.xl} {jf.radii.xl} {jf.radii.shaped} {jf.radii.shaped}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "inset": {
+      "padding": {
+        "none": {
+          "value": "{jf.padding.none} {jf.padding.none}  {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xs3": {
+          "value": "{jf.padding.xs3} {jf.padding.xs3} {jf.padding.xs3}",
+          "type": "spacing"
+        },
+        "xs2": {
+          "value": "{jf.padding.xs2} {jf.padding.xs2} {jf.padding.xs2}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{jf.padding.xs} {jf.padding.xs} {jf.padding.xs}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{jf.padding.sm} {jf.padding.sm} {jf.padding.sm}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.padding.md} {jf.padding.md} {jf.padding.md}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.padding.lg} {jf.padding.lg} {jf.padding.lg}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{jf.padding.xl} {jf.padding.xl} {jf.padding.xl}",
+          "type": "spacing"
+        },
+        "xl2": {
+          "value": "{jf.padding.xl2} {jf.padding.xl2} {jf.padding.xl2}",
+          "type": "spacing"
+        },
+        "xl3": {
+          "value": "{jf.padding.xl3} {jf.padding.xl3} {jf.padding.xl3}",
+          "type": "spacing"
+        },
+        "g": {
+          "value": "{jf.padding.g} {jf.padding.g} {jf.padding.g}",
+          "type": "spacing"
+        },
+        "xg": {
+          "value": "{jf.padding.xg} {jf.padding.xg} {jf.padding.xg}",
+          "type": "spacing"
+        }
+      }
+    },
+    "squish": {
+      "padding": {
+        "xs3": {
+          "value": "{jf.padding.none} {jf.padding.xs2} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xs2": {
+          "value": "{jf.padding.xs2} {jf.padding.xs} {jf.padding.xs2}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{jf.padding.xs} {jf.padding.sm} {jf.padding.xs}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{jf.padding.sm} {jf.padding.md} {jf.padding.sm}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.padding.md} {jf.padding.lg} {jf.padding.md}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.padding.lg} {jf.padding.xl} {jf.padding.lg}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{jf.padding.xl} {jf.padding.xl2} {jf.padding.xl}",
+          "type": "spacing"
+        },
+        "xl2": {
+          "value": "{jf.padding.xl2} {jf.padding.xl3} {jf.padding.xl2}",
+          "type": "spacing"
+        },
+        "xl3": {
+          "value": "{jf.padding.xl3} {jf.padding.g} {jf.padding.xl3}",
+          "type": "spacing"
+        },
+        "g": {
+          "value": "{jf.padding.g} {jf.padding.xg} {jf.padding.g}",
+          "type": "spacing"
+        }
+      }
+    },
+    "stretch": {
+      "padding": {
+        "xs3": {
+          "value": "{jf.padding.xs2} {jf.padding.none} {jf.padding.xs2}",
+          "type": "spacing"
+        },
+        "xs2": {
+          "value": "{jf.padding.xs} {jf.padding.xs2} {jf.padding.xs}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{jf.padding.sm} {jf.padding.xs} {jf.padding.sm}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{jf.padding.md} {jf.padding.sm} {jf.padding.md}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.padding.lg} {jf.padding.md} {jf.padding.lg}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.padding.xl} {jf.padding.lg} {jf.padding.xl}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{jf.padding.xl2} {jf.padding.xl} {jf.padding.xl2}",
+          "type": "spacing"
+        },
+        "xl2": {
+          "value": "{jf.padding.xl3} {jf.padding.xl2} {jf.padding.xl3}",
+          "type": "spacing"
+        },
+        "xl3": {
+          "value": "{jf.padding.g} {jf.padding.xl3} {jf.padding.g}",
+          "type": "spacing"
+        },
+        "g": {
+          "value": "{jf.padding.xg} {jf.padding.g} {jf.padding.xg}",
+          "type": "spacing"
+        }
+      }
+    },
+    "horizontals": {
+      "padding": {
+        "xs2": {
+          "value": "{jf.padding.none} {jf.padding.xs2} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{jf.padding.none} {jf.padding.xs} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{jf.padding.none} {jf.padding.sm} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.padding.none} {jf.padding.md} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.padding.none} {jf.padding.lg} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{jf.padding.none} {jf.padding.xl} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xl2": {
+          "value": "{jf.padding.none} {jf.padding.xl2} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xl3": {
+          "value": "{jf.padding.none} {jf.padding.xl3} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "g": {
+          "value": "{jf.padding.none} {jf.padding.g} {jf.padding.none}",
+          "type": "spacing"
+        },
+        "xg": {
+          "value": "{jf.padding.none} {jf.padding.xg2} {jf.padding.none}",
+          "type": "spacing"
+        }
+      }
+    },
+    "verticals": {
+      "padding": {
+        "xs2": {
+          "value": "{jf.padding.xs2} {jf.padding.none} {jf.padding.xs2}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{jf.padding.xs} {jf.padding.none} {jf.padding.xs}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{jf.padding.sm} {jf.padding.none} {jf.padding.sm}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{jf.padding.md} {jf.padding.none} {jf.padding.md}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{jf.padding.lg} {jf.padding.none} {jf.padding.lg}",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "{jf.padding.xl} {jf.padding.none} {jf.padding.xl}",
+          "type": "spacing"
+        },
+        "xl2": {
+          "value": "{jf.padding.xl2} {jf.padding.none} {jf.padding.xl2}",
+          "type": "spacing"
+        },
+        "xl3": {
+          "value": "{jf.padding.xl3} {jf.padding.none} {jf.padding.xl3}",
+          "type": "spacing"
+        },
+        "g": {
+          "value": "{jf.padding.g} {jf.padding.none} {jf.padding.g}",
+          "type": "spacing"
+        },
+        "xg": {
+          "value": "{jf.padding.xg} {jf.padding.none} {jf.padding.xg}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

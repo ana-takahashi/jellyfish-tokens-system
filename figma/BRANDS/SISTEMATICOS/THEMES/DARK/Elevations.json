@@ -1,0 +1,404 @@
+{
+  "jf": {
+    "elevation": {
+      "shadow-color": {
+        "default": {
+          "value": "6, 7, 8",
+          "type": "other"
+        },
+        "primary": {
+          "value": "112, 61, 214",
+          "type": "other"
+        }
+      },
+      "shadow-below": {
+        "default": {
+          "level-1": {
+            "value": [
+              {
+                "x": "0",
+                "y": "2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.5)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-2": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "15",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default},0.3)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.4)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-3": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "15",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.40)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "4",
+                "y": "2",
+                "blur": "10",
+                "spread": "-4",
+                "color": "rgba({jf.elevation.shadow-color.default},0.40)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-4": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "20",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.50)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-5": {
+            "value": [
+              {
+                "x": "9",
+                "y": "11",
+                "blur": "29",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default},0.55)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "deep": {
+            "value": [
+              {
+                "x": "0",
+                "y": "4",
+                "blur": "6",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default}, 0.40)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        },
+        "primary": {
+          "level-1": {
+            "value": [
+              {
+                "x": "0",
+                "y": "2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.5)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-2": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "15",
+                "spread": "-2",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.35)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.50)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-3": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "15",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.35)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "4",
+                "y": "2",
+                "blur": "10",
+                "spread": "-4",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.60)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-4": {
+            "value": [
+              {
+                "x": "6",
+                "y": "8",
+                "blur": "20",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.primary},0.60)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-5": {
+            "value": [
+              {
+                "x": "9",
+                "y": "11",
+                "blur": "29",
+                "spread": "-2",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.55)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "deep": {
+            "value": [
+              {
+                "x": "0",
+                "y": "4",
+                "blur": "6",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default}, 0.90)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        }
+      },
+      "shadow-above": {
+        "default": {
+          "level-1": {
+            "value": [
+              {
+                "x": "0",
+                "y": "-2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.5)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-2": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "15",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default},0.3)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "-2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.4)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-3": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "15",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.40)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "4",
+                "y": "-2",
+                "blur": "10",
+                "spread": "-4",
+                "color": "rgba({jf.elevation.shadow-color.default},0.40)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-4": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "20",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.default},0.50)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-5": {
+            "value": [
+              {
+                "x": "9",
+                "y": "-11",
+                "blur": "29",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default},0.55)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "deep": {
+            "value": [
+              {
+                "x": "0",
+                "y": "-4",
+                "blur": "6",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default}, 0.40)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        },
+        "primary": {
+          "level-1": {
+            "value": [
+              {
+                "x": "0",
+                "y": "-2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.5)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-2": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "15",
+                "spread": "-2",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.35)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "0",
+                "y": "-2",
+                "blur": "4",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.50)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-3": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "15",
+                "spread": "0",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.35)",
+                "type": "dropShadow"
+              },
+              {
+                "x": "4",
+                "y": "-2",
+                "blur": "10",
+                "spread": "-4",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.60)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-4": {
+            "value": [
+              {
+                "x": "6",
+                "y": "-8",
+                "blur": "20",
+                "spread": "0",
+                "color": "rgba({jf.elevation.shadow-color.primary},0.60)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "level-5": {
+            "value": [
+              {
+                "x": "9",
+                "y": "-11",
+                "blur": "29",
+                "spread": "-2",
+                "color": "rgba( {jf.elevation.shadow-color.primary},0.55)",
+                "type": "dropShadow"
+              }
+            ],
+            "type": "boxShadow"
+          },
+          "deep": {
+            "value": [
+              {
+                "x": "0",
+                "y": "-4",
+                "blur": "6",
+                "spread": "-2",
+                "color": "rgba({jf.elevation.shadow-color.default}, 0.90)",
+                "type": "innerShadow"
+              }
+            ],
+            "type": "boxShadow"
+          }
+        }
+      }
+    }
+  }
+}

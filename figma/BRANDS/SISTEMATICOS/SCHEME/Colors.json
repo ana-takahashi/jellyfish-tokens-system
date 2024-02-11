@@ -1,0 +1,100 @@
+{
+  "jf": {
+    "scheme": {
+      "primary": {
+        "value": "#7645d6",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#1a8f89",
+        "type": "color"
+      },
+      "success": {
+        "value": "#407619",
+        "type": "color"
+      },
+      "critical": {
+        "value": "#c02f1f",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#c28f3c",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "#6577A5",
+        "type": "color"
+      },
+      "dataviz1": {
+        "value": "#386cb0",
+        "type": "color"
+      },
+      "dataviz2": {
+        "value": "#00BCF2",
+        "type": "color"
+      },
+      "dataviz3": {
+        "value": "#1b9e77",
+        "type": "color"
+      },
+      "dataviz4": {
+        "value": "#f0d631",
+        "type": "color"
+      },
+      "dataviz5": {
+        "value": "#d86d1c",
+        "type": "color"
+      },
+      "dataviz6": {
+        "value": "#b92fc2",
+        "type": "color"
+      },
+      "dataviz7": {
+        "value": "#66a61e",
+        "type": "color"
+      },
+      "modifier-amount": {
+        "0": {
+          "value": "0.95",
+          "type": "other"
+        },
+        "1": {
+          "value": "0.90",
+          "type": "other"
+        },
+        "2": {
+          "value": "0.82",
+          "type": "other"
+        },
+        "3": {
+          "value": "0.75",
+          "type": "other"
+        },
+        "4": {
+          "value": "0.65",
+          "type": "other"
+        },
+        "5": {
+          "value": "0.5",
+          "type": "other"
+        },
+        "6": {
+          "value": "0.45",
+          "type": "other"
+        },
+        "7": {
+          "value": "0.35",
+          "type": "other"
+        },
+        "8": {
+          "value": "0.20",
+          "type": "other"
+        },
+        "9": {
+          "value": "0.15",
+          "type": "other"
+        }
+      }
+    }
+  }
+}

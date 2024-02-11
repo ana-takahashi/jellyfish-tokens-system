@@ -1,0 +1,189 @@
+{
+  "jf": {
+    "opacity": {
+      "dragged": {
+        "value": "{jf.opacity.lg}",
+        "type": "opacity"
+      },
+      "disabled": {
+        "value": "{jf.opacity.sm}",
+        "type": "opacity",
+        "description": "Opacity for disabled state components"
+      }
+    },
+    "state": {
+      "modifier-amount": {
+        "focus": {
+          "value": "{jf.scheme.modifier-amount.9}",
+          "type": "other"
+        },
+        "selected": {
+          "value": "{jf.scheme.modifier-amount.9}",
+          "type": "other"
+        },
+        "hover": {
+          "value": "{jf.scheme.modifier-amount.8}",
+          "type": "other"
+        }
+      }
+    },
+    "shadow": {
+      "primary": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.primary}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "neutral": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.neutral}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "success": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.success}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "critical": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.critical}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "warning": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.warning}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz1": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz1}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz2": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz2}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz3": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz3}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz4": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz4}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz5": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz5}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz6": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz6}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "dataviz7": {
+        "focus": {
+          "value": {
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4",
+            "color": "rgba({jf.scheme.dataviz7}, {jf.opacity.md})",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
+    }
+  }
+}

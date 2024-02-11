@@ -1,0 +1,124 @@
+{
+  "jf": {
+    "border-color": {
+      "default": {
+        "value": "{jf.scheme.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.7} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "moderate": {
+        "value": "{jf.scheme.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.5} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "muted": {
+        "value": "{jf.scheme.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.4} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "inverted": {
+        "value": "{jf.scheme.neutral}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.2} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "primary": {
+        "value": "{jf.scheme.primary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.8} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "secondary": {
+        "value": "{jf.scheme.secondary}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "darken",
+              "value": "{jf.scheme.modifier-amount.6} ",
+              "space": "hsl"
+            }
+          }
+        }
+      },
+      "success": {
+        "value": "{jf.scheme.success}",
+        "type": "color"
+      },
+      "critical": {
+        "value": "{jf.scheme.critical}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{jf.scheme.warning}",
+        "type": "color"
+      },
+      "dataviz1": {
+        "value": "{jf.scheme.dataviz1}",
+        "type": "color"
+      },
+      "dataviz2": {
+        "value": "{jf.scheme.dataviz2}",
+        "type": "color"
+      },
+      "dataviz3": {
+        "value": "{jf.scheme.dataviz3}",
+        "type": "color"
+      },
+      "dataviz4": {
+        "value": "{jf.scheme.dataviz4}",
+        "type": "color"
+      },
+      "dataviz5": {
+        "value": "{jf.scheme.dataviz5}",
+        "type": "color"
+      },
+      "dataviz6": {
+        "value": "{jf.scheme.dataviz6}",
+        "type": "color"
+      },
+      "dataviz7": {
+        "value": "{jf.scheme.dataviz7}",
+        "type": "color"
+      }
+    }
+  }
+}
