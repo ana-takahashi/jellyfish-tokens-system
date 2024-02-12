@@ -7,7 +7,10 @@
       "BRANDS/SISTEMATICOS/SCHEME/Colors": "enabled",
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "enabled",
       "BRANDS/SISTEMATICOS/SCHEME/States": "enabled",
-      "GLOBAL BASE/Foundations": "disabled"
+      "G_PATTERNS/Backgrounds": "disabled",
+      "G_PATTERNS/Contents": "disabled",
+      "G_BASE/Primitives": "disabled",
+      "G_BASE/Foundations": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6906",
     "$figmaModeId": "3868:0",
@@ -33,12 +36,17 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL BASE/Primitives": "enabled",
-      "GLOBAL BASE/Foundations": "enabled"
+      "G_PATTERNS/Backgrounds": "disabled",
+      "G_PATTERNS/Contents": "disabled",
+      "G_BASE/Primitives": "enabled",
+      "G_BASE/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3841:5775",
     "$figmaModeId": "3841:0",
     "$figmaVariableReferences": {
+      "jf.blur.sm": "8c1c46ed85415f00f586b2d1d82e5efde47fea12",
+      "jf.blur.md": "24247cef548582c3d0645fff4ee27a2c2bca678f",
+      "jf.blur.lg": "f957b5c2c1d083b8446c1022cd25353cd4b964b9",
       "jf.border-width.thin": "38b18562fc491f550f24c6dc4d3503fe4034bd7c",
       "jf.border-width.skinny": "341bf7e9c6364127238ad0a2b1bc4d5e779dbafd",
       "jf.border-width.medium": "4039e422fd855cfdb769827c2a68961033d4edd8",
@@ -143,10 +151,7 @@
       "jf.dimension.21": "f90902ab5137d1c04810fd34537965aba27e1e5e",
       "jf.dimension.22": "54e637bbbfbf9738c0d510bbbc6c0052cbbc2514",
       "jf.dimension.23": "7377e0193fb31a335c4eb675249aed0fe3ba12bf",
-      "jf.dimension.24": "a89e89b81ab7266f40b5e4da383e0e1cfbdf427a",
-      "jf.blur.sm": "8c1c46ed85415f00f586b2d1d82e5efde47fea12",
-      "jf.blur.md": "24247cef548582c3d0645fff4ee27a2c2bca678f",
-      "jf.blur.lg": "f957b5c2c1d083b8446c1022cd25353cd4b964b9"
+      "jf.dimension.24": "a89e89b81ab7266f40b5e4da383e0e1cfbdf427a"
     },
     "group": "GLOBAL BASE"
   },
@@ -512,10 +517,10 @@
       "BRANDS/SISTEMATICOS/SCHEME/Colors": "source",
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
       "BRANDS/SISTEMATICOS/SCHEME/States": "source",
-      "GLOBAL PATTERNS/Backgrounds": "enabled",
-      "GLOBAL PATTERNS/Contents": "enabled",
-      "GLOBAL BASE/Primitives": "source",
-      "GLOBAL BASE/Foundations": "source"
+      "G_PATTERNS/Backgrounds": "enabled",
+      "G_PATTERNS/Contents": "enabled",
+      "G_BASE/Primitives": "source",
+      "G_BASE/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6920",
     "$figmaModeId": "3868:1",
@@ -819,10 +824,10 @@
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
       "BRANDS/SISTEMATICOS/SCHEME/States": "source",
       "BRANDS/SISTEMATICOS/THEMES/DARK/Elevations": "enabled",
-      "GLOBAL PATTERNS/Backgrounds": "enabled",
-      "GLOBAL PATTERNS/Contents": "enabled",
-      "GLOBAL BASE/Primitives": "source",
-      "GLOBAL BASE/Foundations": "source"
+      "G_PATTERNS/Backgrounds": "enabled",
+      "G_PATTERNS/Contents": "enabled",
+      "G_BASE/Primitives": "source",
+      "G_BASE/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6920",
     "$figmaModeId": "3868:2",
@@ -1112,7 +1117,10 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL BASE/Foundations": "disabled"
+      "G_PATTERNS/Backgrounds": "disabled",
+      "G_PATTERNS/Contents": "disabled",
+      "G_BASE/Primitives": "disabled",
+      "G_BASE/Foundations": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3815:473",
     "$figmaModeId": "3815:5",

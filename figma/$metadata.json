@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "GLOBAL BASE/Primitives",
-    "GLOBAL BASE/Foundations",
+    "G_BASE/Primitives",
+    "G_BASE/Foundations",
     "BRANDS/SISTEMATICOS/SCHEME/Colors",
     "BRANDS/SISTEMATICOS/SCHEME/Typeset",
     "BRANDS/SISTEMATICOS/SCHEME/States",
@@ -17,8 +17,8 @@
     "BRANDS/SISTEMATICOS/THEMES/DARK/Elevations",
     "BRANDS/SISTEMATICOS/ASSETS/Logo",
     "BRANDS/SISTEMATICOS/ASSETS/Icons",
-    "GLOBAL PATTERNS/Backgrounds",
-    "GLOBAL PATTERNS/Contents",
+    "G_PATTERNS/Backgrounds",
+    "G_PATTERNS/Contents",
     "DESIGN_ONLY"
   ]
 }
