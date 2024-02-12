@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
     "GLOBAL BASE/Primitives",
-    "GLOBAL BASE/Semantics",
+    "GLOBAL BASE/Foundations",
     "BRANDS/SISTEMATICOS/SCHEME/Colors",
     "BRANDS/SISTEMATICOS/SCHEME/Typeset",
     "BRANDS/SISTEMATICOS/SCHEME/States",

@@ -1,5 +1,19 @@
 {
   "jf": {
+    "blur": {
+      "sm": {
+        "value": "{jf.dimension.2}",
+        "type": "number"
+      },
+      "md": {
+        "value": "{jf.dimension.3}",
+        "type": "number"
+      },
+      "lg": {
+        "value": "{jf.dimension.4}",
+        "type": "number"
+      }
+    },
     "border-width": {
       "thin": {
         "value": "1",

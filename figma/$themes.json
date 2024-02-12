@@ -6,7 +6,8 @@
     "selectedTokenSets": {
       "BRANDS/SISTEMATICOS/SCHEME/Colors": "enabled",
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/States": "enabled"
+      "BRANDS/SISTEMATICOS/SCHEME/States": "enabled",
+      "GLOBAL BASE/Foundations": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6906",
     "$figmaModeId": "3868:0",
@@ -32,8 +33,8 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "GLOBAL BASE/Semantics": "enabled",
-      "GLOBAL BASE/Primitives": "enabled"
+      "GLOBAL BASE/Primitives": "enabled",
+      "GLOBAL BASE/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3841:5775",
     "$figmaModeId": "3841:0",
@@ -513,8 +514,8 @@
       "BRANDS/SISTEMATICOS/SCHEME/States": "source",
       "GLOBAL PATTERNS/Backgrounds": "enabled",
       "GLOBAL PATTERNS/Contents": "enabled",
-      "GLOBAL BASE/Semantics": "source",
-      "GLOBAL BASE/Primitives": "source"
+      "GLOBAL BASE/Primitives": "source",
+      "GLOBAL BASE/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6920",
     "$figmaModeId": "3868:1",
@@ -820,8 +821,8 @@
       "BRANDS/SISTEMATICOS/THEMES/DARK/Elevations": "enabled",
       "GLOBAL PATTERNS/Backgrounds": "enabled",
       "GLOBAL PATTERNS/Contents": "enabled",
-      "GLOBAL BASE/Semantics": "source",
-      "GLOBAL BASE/Primitives": "source"
+      "GLOBAL BASE/Primitives": "source",
+      "GLOBAL BASE/Foundations": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:3868:6920",
     "$figmaModeId": "3868:2",
@@ -1110,7 +1111,9 @@
     "id": "2bd2fae57e5d7494fb705e9e3e8eaebac280f122",
     "name": "values",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "GLOBAL BASE/Foundations": "disabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:3815:473",
     "$figmaModeId": "3815:5",
     "$figmaVariableReferences": {},
