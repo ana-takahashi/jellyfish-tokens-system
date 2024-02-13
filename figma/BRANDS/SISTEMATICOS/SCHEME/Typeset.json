@@ -282,33 +282,33 @@
       },
       "display": {
         "lg": {
-          "value": "clamp(4.5148rem, 4.1278rem + 1.9349cqi, 6.4497rem)",
+          "value": "clamp(4.8373rem, 4.2215rem + 3.0789cqi, 7.9162rem)",
           "type": "fontSizes"
         },
         "md": {
-          "value": "clamp(3.7623rem, 3.4399rem + 1.6124cqi, 5.3748rem)",
+          "value": "clamp(3.3592rem, 3.0178rem + 1.7072cqi, 5.0664rem)",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "clamp(3.1353rem, 2.8665rem + 1.3437cqi, 4.479rem)",
+          "value": "clamp(2.7994rem, 2.5486rem + 1.2538cqi, 4.0531rem)",
           "type": "fontSizes"
         }
       },
       "title": {
         "lg": {
-          "value": "clamp(2.1773rem, 1.9907rem + 0.9331cqi, 3.1104rem)",
+          "value": "clamp(1.944rem, 1.814rem + 0.65cqi, 2.594rem)",
           "type": "fontSizes"
         },
         "md": {
-          "value": "clamp(1.8144rem, 1.6589rem + 0.7776cqi, 2.592rem)",
+          "value": "clamp(1.62rem, 1.529rem + 0.4552cqi, 2.0752rem)",
           "type": "fontSizes"
         },
         "sm": {
-          "value": "clamp(1.512rem, 1.3824rem + 0.648cqi, 2.16rem)",
+          "value": "clamp(1.35rem, 1.288rem + 0.3102cqi, 1.6602rem)",
           "type": "fontSizes"
         },
         "xs": {
-          "value": "clamp(1.26rem, 1.152rem + 0.54cqi, 1.8rem)",
+          "value": "clamp(1.125rem, 1.0844rem + 0.2031cqi, 1.3281rem)",
           "type": "fontSizes"
         },
         "xs2": {

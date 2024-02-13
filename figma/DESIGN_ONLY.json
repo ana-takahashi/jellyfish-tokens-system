@@ -8,7 +8,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.lg}",
-              "fontSize": "123.83",
+              "fontSize": "126.66",
               "letterSpacing": "{jf.letter-spacing.display.lg}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -20,7 +20,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.lg}",
-              "fontSize": "93.13",
+              "fontSize": "111.88",
               "letterSpacing": "{jf.letter-spacing.display.lg}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -32,7 +32,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.lg}",
-              "fontSize": "84.62",
+              "fontSize": "97.10",
               "letterSpacing": "{jf.letter-spacing.display.lg}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -44,7 +44,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.lg}",
-              "fontSize": "72.24",
+              "fontSize": "77.40",
               "letterSpacing": "{jf.letter-spacing.display.lg}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -58,7 +58,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.md}",
-              "fontSize": "86",
+              "fontSize": "81.06",
               "letterSpacing": "{jf.letter-spacing.display.md}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -70,7 +70,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.md}",
-              "fontSize": "77.61",
+              "fontSize": "72.87",
               "letterSpacing": "{jf.letter-spacing.display.md}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -82,7 +82,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.md}",
-              "fontSize": "70.52",
+              "fontSize": "64.67",
               "letterSpacing": "{jf.letter-spacing.display.md}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -94,7 +94,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.md}",
-              "fontSize": "60.20",
+              "fontSize": "53.75",
               "letterSpacing": "{jf.letter-spacing.display.md}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -108,7 +108,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.sm}",
-              "fontSize": "71.66",
+              "fontSize": "64.85",
               "letterSpacing": "{jf.letter-spacing.display.sm}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -120,7 +120,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.sm}",
-              "fontSize": "64.68",
+              "fontSize": "58.83",
               "letterSpacing": "{jf.letter-spacing.display.sm}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -132,7 +132,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.sm}",
-              "fontSize": "58.76",
+              "fontSize": "52.81",
               "letterSpacing": "{jf.letter-spacing.display.sm}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -144,7 +144,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.display}",
               "lineHeight": "{jf.line-height.display.sm}",
-              "fontSize": "50.16",
+              "fontSize": "44.79",
               "letterSpacing": "{jf.letter-spacing.display.sm}",
               "textCase": "{jf.text-transform.display}"
             },
@@ -160,7 +160,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.lg}",
-              "fontSize": "59.72",
+              "fontSize": "41.50",
               "letterSpacing": "{jf.letter-spacing.title.lg}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -172,7 +172,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.lg}",
-              "fontSize": "53.90",
+              "fontSize": "38.38",
               "letterSpacing": "{jf.letter-spacing.title.lg}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -184,7 +184,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.lg}",
-              "fontSize": "48.97",
+              "fontSize": "35.26",
               "letterSpacing": "{jf.letter-spacing.title.lg}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -196,7 +196,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.lg}",
-              "fontSize": "41.80",
+              "fontSize": "31.10",
               "letterSpacing": "{jf.letter-spacing.title.lg}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -210,7 +210,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.md}",
-              "fontSize": "41.47",
+              "fontSize": "33.20",
               "letterSpacing": "{jf.letter-spacing.title.md}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -222,7 +222,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.md}",
-              "fontSize": "37.43",
+              "fontSize": "31.02",
               "letterSpacing": "{jf.letter-spacing.title.md}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -234,7 +234,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.md}",
-              "fontSize": "34.01",
+              "fontSize": "28.83",
               "letterSpacing": "{jf.letter-spacing.title.md}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -246,7 +246,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.md}",
-              "fontSize": "29.03",
+              "fontSize": "25.92",
               "letterSpacing": "{jf.letter-spacing.title.md}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -260,7 +260,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.sm}",
-              "fontSize": "34.56",
+              "fontSize": "26.56",
               "letterSpacing": "{jf.letter-spacing.title.sm}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -272,7 +272,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.sm}",
-              "fontSize": "31.19",
+              "fontSize": "25.07",
               "letterSpacing": "{jf.letter-spacing.title.sm}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -284,7 +284,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.sm}",
-              "fontSize": "28.34",
+              "fontSize": "23.59",
               "letterSpacing": "{jf.letter-spacing.title.sm}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -296,7 +296,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-bold}",
               "lineHeight": "{jf.line-height.title.sm}",
-              "fontSize": "24.19",
+              "fontSize": "21.60",
               "letterSpacing": "{jf.letter-spacing.title.sm}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -310,7 +310,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-medium}",
               "lineHeight": "{jf.line-height.title.xs}",
-              "fontSize": "28.80",
+              "fontSize": "21.25",
               "letterSpacing": "{jf.letter-spacing.title.xs}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -322,7 +322,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-medium}",
               "lineHeight": "{jf.line-height.title.xs}",
-              "fontSize": "25.99",
+              "fontSize": "20.27",
               "letterSpacing": "{jf.letter-spacing.title.xs}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -334,7 +334,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-medium}",
               "lineHeight": "{jf.line-height.title.xs}",
-              "fontSize": "23.62",
+              "fontSize": "19.30",
               "letterSpacing": "{jf.letter-spacing.title.xs}",
               "textCase": "{jf.text-transform.title}"
             },
@@ -346,7 +346,7 @@
               "fontFamily": "{jf.font-family.brand}",
               "fontWeight": "{jf.font-weight.title-medium}",
               "lineHeight": "{jf.line-height.title.xs}",
-              "fontSize": "20.16",
+              "fontSize": "18.00",
               "letterSpacing": "{jf.letter-spacing.title.xs}",
               "textCase": "{jf.text-transform.title}"
             },
