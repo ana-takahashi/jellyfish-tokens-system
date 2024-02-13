@@ -70,17 +70,17 @@
       },
       "title": {
         "lg": {
-          "value": "{jf.line-height.xs}",
+          "value": "{jf.line-height.sm}",
           "type": "lineHeights",
           "description": "Line Height used in the Typography component in its Title Large variant"
         },
         "md": {
-          "value": "{jf.line-height.xs}",
+          "value": "{jf.line-height.sm}",
           "type": "lineHeights",
           "description": "Line Height used in the Typography component in its Title Medium variant"
         },
         "sm": {
-          "value": "{jf.line-height.xs}",
+          "value": "{jf.line-height.sm}",
           "type": "lineHeights",
           "description": "Line Height used in the Typography component in its Title Small variant"
         },
