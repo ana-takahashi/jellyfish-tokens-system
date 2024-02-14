@@ -36,7 +36,7 @@
         "type": "fontFamilies"
       },
       "plain": {
-        "value": "Red Hat Text",
+        "value": "DM Sans",
         "type": "fontFamilies",
         "description": "Secondary font family for this brand, mostly used for plain texts"
       },
