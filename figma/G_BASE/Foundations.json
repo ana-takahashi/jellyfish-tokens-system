@@ -206,59 +206,59 @@
         "type": "spacing"
       }
     },
+    "width": {
+      "full": {
+        "value": "100%",
+        "type": "sizing"
+      },
+      "vp_full": {
+        "value": "100vw",
+        "type": "sizing"
+      },
+      "vp_half": {
+        "value": "50vw",
+        "type": "sizing"
+      },
+      "half": {
+        "value": "50%",
+        "type": "sizing"
+      },
+      "quarter": {
+        "value": "25%",
+        "type": "sizing"
+      },
+      "vp_quarter": {
+        "value": "25vw",
+        "type": "sizing"
+      }
+    },
+    "height": {
+      "full": {
+        "value": "100%",
+        "type": "sizing"
+      },
+      "vp_full": {
+        "value": "100vh",
+        "type": "sizing"
+      },
+      "vp_half": {
+        "value": "50vh",
+        "type": "sizing"
+      },
+      "half": {
+        "value": "50%",
+        "type": "sizing"
+      },
+      "quarter": {
+        "value": "25%",
+        "type": "sizing"
+      },
+      "vp_quarter": {
+        "value": "25vh",
+        "type": "sizing"
+      }
+    },
     "size": {
-      "width": {
-        "full": {
-          "value": "100%",
-          "type": "sizing"
-        },
-        "vp_full": {
-          "value": "100vw",
-          "type": "sizing"
-        },
-        "vp_half": {
-          "value": "50vw",
-          "type": "sizing"
-        },
-        "half": {
-          "value": "50%",
-          "type": "sizing"
-        },
-        "quarter": {
-          "value": "25%",
-          "type": "sizing"
-        },
-        "vp_quarter": {
-          "value": "25vw",
-          "type": "sizing"
-        }
-      },
-      "height": {
-        "full": {
-          "value": "100%",
-          "type": "sizing"
-        },
-        "vp_full": {
-          "value": "100vh",
-          "type": "sizing"
-        },
-        "vp_half": {
-          "value": "50vh",
-          "type": "sizing"
-        },
-        "half": {
-          "value": "50%",
-          "type": "sizing"
-        },
-        "quarter": {
-          "value": "25%",
-          "type": "sizing"
-        },
-        "vp_quarter": {
-          "value": "25vh",
-          "type": "sizing"
-        }
-      },
       "xs5": {
         "value": "{jf.dimension.2}",
         "type": "sizing"
