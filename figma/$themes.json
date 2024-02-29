@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "G_BASE/Primitives": "enabled",
-      "G_BASE/Foundations": "enabled"
+      "G_BASE/Foundations": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3841:5775",
     "$figmaModeId": "3841:0",
@@ -128,7 +130,9 @@
     "selectedTokenSets": {
       "BRANDS/SISTEMATICOS/SCHEME/Colors": "enabled",
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/States": "enabled"
+      "BRANDS/SISTEMATICOS/SCHEME/States": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:117",
     "$figmaModeId": "4088:1",
@@ -511,10 +515,10 @@
       "BRANDS/SISTEMATICOS/SCHEME/Colors": "source",
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
       "BRANDS/SISTEMATICOS/SCHEME/States": "source",
-      "G_PATTERNS/Backgrounds": "enabled",
-      "G_PATTERNS/Contents": "enabled",
       "G_BASE/Primitives": "source",
-      "G_BASE/Foundations": "source"
+      "G_BASE/Foundations": "source",
+      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:131",
     "$figmaModeId": "4088:2",
@@ -586,6 +590,7 @@
       "jf.fg.dataviz7.focus": "208a969154f69eafdd501f1296d2a1a776491032",
       "jf.regular.bg.surface-main.enabled": "4ec49a19b4a999013bce9bb1b11cd934c9813ce6",
       "jf.regular.bg.surface-main.hover": "3477284c2b1b38f8c2f168f7cf5d15ef77b6a4e7",
+      "jf.regular.bg.surface-main.hover-alt": "317c75584b1f4ca51cbb725367c0c9a236e430c9",
       "jf.regular.bg.surface-main.selected": "6c925ce753b938fd1e9ae51ff4a123439e855766",
       "jf.regular.bg.surface-main.focus": "c105ee13fd840121e8782c0b668c37882c4c1ffc",
       "jf.regular.bg.surface-moderate.enabled": "b144f8af3c5bb3f46f3fa92893ae460131a05b30",
@@ -818,10 +823,10 @@
       "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
       "BRANDS/SISTEMATICOS/SCHEME/States": "source",
       "BRANDS/SISTEMATICOS/THEMES/DARK/Elevations": "enabled",
-      "G_PATTERNS/Backgrounds": "enabled",
-      "G_PATTERNS/Contents": "enabled",
       "G_BASE/Primitives": "source",
-      "G_BASE/Foundations": "source"
+      "G_BASE/Foundations": "source",
+      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:131",
     "$figmaModeId": "4088:3",
@@ -893,6 +898,7 @@
       "jf.fg.dataviz7.focus": "208a969154f69eafdd501f1296d2a1a776491032",
       "jf.regular.bg.surface-main.enabled": "4ec49a19b4a999013bce9bb1b11cd934c9813ce6",
       "jf.regular.bg.surface-main.hover": "3477284c2b1b38f8c2f168f7cf5d15ef77b6a4e7",
+      "jf.regular.bg.surface-main.hover-alt": "317c75584b1f4ca51cbb725367c0c9a236e430c9",
       "jf.regular.bg.surface-main.selected": "6c925ce753b938fd1e9ae51ff4a123439e855766",
       "jf.regular.bg.surface-main.focus": "c105ee13fd840121e8782c0b668c37882c4c1ffc",
       "jf.regular.bg.surface-moderate.enabled": "b144f8af3c5bb3f46f3fa92893ae460131a05b30",
@@ -1110,7 +1116,10 @@
     "id": "2bd2fae57e5d7494fb705e9e3e8eaebac280f122",
     "name": "values",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:3815:473",
     "$figmaModeId": "3815:5",
     "$figmaVariableReferences": {},
