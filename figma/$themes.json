@@ -4,10 +4,15 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "G_BASE/Primitives": "enabled",
+      "G_BASE/Primitives": "source",
       "G_BASE/Foundations": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "disabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3841:5775",
     "$figmaModeId": "3841:0",
@@ -128,11 +133,14 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "BRANDS/SISTEMATICOS/SCHEME/Colors": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/Typeset": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/States": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
+      "BRANDS/SISTEMATICOS/PATTERNS/Typography": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "enabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:117",
     "$figmaModeId": "4088:1",
@@ -151,7 +159,7 @@
       "jf.scheme.dataviz6": "54a66c78b868b1ccf0f1f6369d7ecca0c6102ed3",
       "jf.scheme.dataviz7": "bbdcb4cf1045e620867c859e93e24ee9c04270db"
     },
-    "group": "[BRAND] CORE SCHEME"
+    "group": "[BRAND] SCHEME"
   },
   {
     "id": "cd95b9d75e033b88ab3f108d9eb273c464812442",
@@ -507,18 +515,21 @@
       "jf.transparent.bg.warning.focus": "S:7fc23d9a777a4cd2f376170e50bf84a9b084a477,"
     },
     "selectedTokenSets": {
-      "BRANDS/SISTEMATICOS/THEMES/LIGHT/Backgrounds": "enabled",
-      "BRANDS/SISTEMATICOS/THEMES/LIGHT/Foregrounds": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/LIGHT/Borders": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/LIGHT/Illustrations": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/LIGHT/Elevations": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/Colors": "source",
-      "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
-      "BRANDS/SISTEMATICOS/SCHEME/States": "source",
       "G_BASE/Primitives": "source",
       "G_BASE/Foundations": "source",
       "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled"
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Typography": "enabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "enabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "source",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "source",
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:131",
     "$figmaModeId": "4088:2",
@@ -815,18 +826,21 @@
       "jf.elevation.shadow.primary.5": "S:f4095ae5ef8a796107f7755a9c69038a9f868aea,"
     },
     "selectedTokenSets": {
-      "BRANDS/SISTEMATICOS/THEMES/DARK/Backgrounds": "enabled",
-      "BRANDS/SISTEMATICOS/THEMES/DARK/Foregrounds": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/DARK/Borders": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/DARK/Illustrations": "enabled",
-      "BRANDS/SISTEMATICOS/SCHEME/Colors": "source",
-      "BRANDS/SISTEMATICOS/SCHEME/Typeset": "source",
-      "BRANDS/SISTEMATICOS/SCHEME/States": "source",
       "BRANDS/SISTEMATICOS/THEMES/DARK/Elevations": "enabled",
       "G_BASE/Primitives": "source",
       "G_BASE/Foundations": "source",
       "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled"
+      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "enabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/Typography": "enabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "enabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "enabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "source",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "source",
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:4088:131",
     "$figmaModeId": "4088:3",
@@ -1117,8 +1131,14 @@
     "name": "values",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "BRANDS/SISTEMATICOS/PATTERNS/Backgrounds": "disabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/Contents": "disabled"
+      "BRANDS/SISTEMATICOS/PATTERNS/Typography": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "disabled",
+      "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "disabled",
+      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "disabled",
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:3815:473",
     "$figmaModeId": "3815:5",
