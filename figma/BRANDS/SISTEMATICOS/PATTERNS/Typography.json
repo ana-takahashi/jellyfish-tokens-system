@@ -175,6 +175,24 @@
         },
         "type": "typography"
       }
+    },
+    "article": {
+      "paragraph": {
+        "value": {
+          "typography": "{jf.body.xl}",
+          "paragraphSpacing": "{jf.margin.xl2}"
+        },
+        "type": "composition"
+      },
+      "title": {
+        "lg": {
+          "value": {
+            "typography": "{jf.title.md}",
+            "paragraphSpacing": "{jf.margin.xl3)"
+          },
+          "type": "composition"
+        }
+      }
     }
   }
 }
