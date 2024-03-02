@@ -183,6 +183,12 @@
             "type": "boxShadow"
           }
         }
+      },
+      "transition": {
+        "hover": {
+          "value": "{jf.animation.duration.xl}",
+          "type": "other"
+        }
       }
     }
   }

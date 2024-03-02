@@ -46,7 +46,7 @@
         "description": "Alternative core font family for this theme"
       },
       "icon": {
-        "value": "Fontello",
+        "value": "jellyfish",
         "type": "fontFamilies",
         "description": "Font-family for icons"
       }
