@@ -92,7 +92,15 @@
       "jf.radii.sm": "3734d0b64125419b470f91b22572c835be87f21c",
       "jf.radii.md": "9fe28bc8cdda9025434642136b06af99a845be1d",
       "jf.radii.lg": "20006b21046fc8c573f62087a3708298b6573ccc",
-      "jf.radii.xl": "f6d618419eda2d63717c2c9ca28f591cb3af2ca8"
+      "jf.radii.xl": "f6d618419eda2d63717c2c9ca28f591cb3af2ca8",
+      "jf.opacity.xs2": "3bffb27990ba70de6e0ff3411b4dfacb9296f72b",
+      "jf.opacity.xs": "a091f5c07a597906cc656775f78c75411616c83f",
+      "jf.opacity.sm": "00e0fe7e66878b7d7bf431178892f91921cc29c9",
+      "jf.opacity.md": "a3bd5f9e914f2e4e47f7248bacdca7643341ae44",
+      "jf.opacity.lg": "5c9701772e2961a418d78ab8ff1ca8793cdf8105",
+      "jf.opacity.xl": "795b403e511fd478c2d3cebdf78c8ced7d3c5350",
+      "jf.opacity.total": "f0878455a0212215ee153aa852c6decca1a655a4",
+      "jf.opacity.transparent": "b185e20c1fdd7ad91c2109bccac7dde45e95cced"
     },
     "group": "CORE"
   },
