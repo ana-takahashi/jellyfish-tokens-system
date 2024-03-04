@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "G_BASE/Primitives": "source",
-      "G_BASE/Foundations": "enabled"
+      "G_BASE/Foundations": "enabled",
+      "BRANDS/SISTEMATICOS/B_BASE/Colors": "disabled",
+      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4130:4305",
     "$figmaModeId": "4130:4",
@@ -468,9 +470,9 @@
       "BRANDS/SISTEMATICOS/PATTERNS/Typography": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Backgrounds": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/LIGHT/SCHEME/Foregrounds": "enabled",
-      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "enabled",
-      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/States": "source"
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "source",
+      "BRANDS/SISTEMATICOS/B_BASE/Colors": "enabled",
+      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4130:4389",
     "$figmaModeId": "4130:5",
@@ -790,9 +792,9 @@
       "BRANDS/SISTEMATICOS/PATTERNS/Typography": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Backgrounds": "enabled",
       "BRANDS/SISTEMATICOS/THEMES/DARK/SCHEME/Foregrounds": "enabled",
-      "BRANDS/SISTEMATICOS/BASE/SCHEME/Colors": "enabled",
-      "BRANDS/SISTEMATICOS/BASE/SCHEME/Typeset": "enabled",
-      "BRANDS/SISTEMATICOS/PATTERNS/States": "source"
+      "BRANDS/SISTEMATICOS/PATTERNS/States": "source",
+      "BRANDS/SISTEMATICOS/B_BASE/Colors": "enabled",
+      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4130:4389",
     "$figmaModeId": "4130:6",
@@ -1095,7 +1097,10 @@
     "id": "2bd2fae57e5d7494fb705e9e3e8eaebac280f122",
     "name": "values",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "BRANDS/SISTEMATICOS/B_BASE/Colors": "disabled",
+      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "disabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:4130:4681",
     "$figmaModeId": "4130:7",
     "$figmaVariableReferences": {},
