@@ -5,9 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "G_BASE/Primitives": "source",
-      "G_BASE/Foundations": "enabled",
-      "BRANDS/SISTEMATICOS/B_BASE/Colors": "disabled",
-      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "disabled"
+      "G_BASE/Foundations": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:4130:4305",
     "$figmaModeId": "4130:4",
@@ -1097,10 +1095,7 @@
     "id": "2bd2fae57e5d7494fb705e9e3e8eaebac280f122",
     "name": "values",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "BRANDS/SISTEMATICOS/B_BASE/Colors": "disabled",
-      "BRANDS/SISTEMATICOS/B_BASE/Typeset": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:4130:4681",
     "$figmaModeId": "4130:7",
     "$figmaVariableReferences": {},
