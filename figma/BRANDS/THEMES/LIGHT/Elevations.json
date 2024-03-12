@@ -11,9 +11,9 @@
           "type": "other"
         }
       },
-      "shadow-below": {
+      "below-shadow": {
         "default": {
-          "level-1": {
+          "sm": {
             "value": [
               {
                 "x": "0",
@@ -26,7 +26,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-2": {
+          "md": {
             "value": [
               {
                 "x": "6",
@@ -47,7 +47,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-3": {
+          "lg": {
             "value": [
               {
                 "x": "6",
@@ -68,7 +68,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-4": {
+          "xl": {
             "value": [
               {
                 "x": "6",
@@ -81,7 +81,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-5": {
+          "xl2": {
             "value": [
               {
                 "x": "9",
@@ -94,7 +94,7 @@
             ],
             "type": "boxShadow"
           },
-          "deep": {
+          "inset": {
             "value": [
               {
                 "x": "0",
@@ -109,7 +109,7 @@
           }
         },
         "primary": {
-          "level-1": {
+          "sm": {
             "value": [
               {
                 "x": "0",
@@ -122,7 +122,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-2": {
+          "md": {
             "value": [
               {
                 "x": "6",
@@ -143,7 +143,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-3": {
+          "lg": {
             "value": [
               {
                 "x": "6",
@@ -164,7 +164,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-4": {
+          "xl": {
             "value": [
               {
                 "x": "6",
@@ -177,7 +177,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-5": {
+          "xl2": {
             "value": [
               {
                 "x": "9",
@@ -190,7 +190,7 @@
             ],
             "type": "boxShadow"
           },
-          "deep": {
+          "inset": {
             "value": [
               {
                 "x": "0",
@@ -205,9 +205,9 @@
           }
         }
       },
-      "shadow-above": {
+      "above-shadow": {
         "default": {
-          "level-1": {
+          "sm": {
             "value": [
               {
                 "x": "0",
@@ -220,7 +220,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-2": {
+          "md": {
             "value": [
               {
                 "x": "6",
@@ -241,7 +241,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-3": {
+          "lg": {
             "value": [
               {
                 "x": "6",
@@ -262,7 +262,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-4": {
+          "xl": {
             "value": [
               {
                 "x": "6",
@@ -275,7 +275,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-5": {
+          "xl2": {
             "value": [
               {
                 "x": "9",
@@ -288,7 +288,7 @@
             ],
             "type": "boxShadow"
           },
-          "deep": {
+          "inset": {
             "value": [
               {
                 "x": "0",
@@ -303,7 +303,7 @@
           }
         },
         "primary": {
-          "level-1": {
+          "sm": {
             "value": [
               {
                 "x": "0",
@@ -316,7 +316,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-2": {
+          "md": {
             "value": [
               {
                 "x": "6",
@@ -337,7 +337,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-3": {
+          "lg": {
             "value": [
               {
                 "x": "6",
@@ -358,7 +358,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-4": {
+          "xl": {
             "value": [
               {
                 "x": "6",
@@ -371,7 +371,7 @@
             ],
             "type": "boxShadow"
           },
-          "level-5": {
+          "xl2": {
             "value": [
               {
                 "x": "9",
@@ -384,7 +384,7 @@
             ],
             "type": "boxShadow"
           },
-          "deep": {
+          "inset": {
             "value": [
               {
                 "x": "0",

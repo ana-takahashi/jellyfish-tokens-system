@@ -37,6 +37,10 @@
       }
     },
     "gap": {
+      "0": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      },
       "xs2": {
         "value": "{jf.dimension.2}",
         "type": "spacing",
@@ -75,16 +79,16 @@
         "value": "{jf.dimension.14}",
         "type": "spacing"
       },
-      "none": {
-        "value": "{jf.dimension.0}",
-        "type": "spacing"
-      },
       "auto": {
         "value": "AUTO",
         "type": "spacing"
       }
     },
     "padding": {
+      "0": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      },
       "xs3": {
         "value": "{jf.dimension.1}",
         "type": "spacing",
@@ -138,14 +142,14 @@
       },
       "xg3": {
         "value": "{jf.dimension.20}",
-        "type": "spacing"
-      },
-      "none": {
-        "value": "{jf.dimension.0}",
         "type": "spacing"
       }
     },
     "margin": {
+      "0": {
+        "value": "{jf.dimension.0}",
+        "type": "spacing"
+      },
       "xs3": {
         "value": "{jf.dimension.1}",
         "type": "spacing",
@@ -199,10 +203,6 @@
       },
       "xg3": {
         "value": "{jf.dimension.20}",
-        "type": "spacing"
-      },
-      "none": {
-        "value": "{jf.dimension.0}",
         "type": "spacing"
       }
     },
@@ -259,6 +259,10 @@
       }
     },
     "size": {
+      "0": {
+        "value": "{jf.dimension.0}",
+        "type": "sizing"
+      },
       "xs5": {
         "value": "{jf.dimension.2}",
         "type": "sizing"
@@ -334,10 +338,6 @@
       "xg5": {
         "value": "{jf.dimension.19}",
         "type": "sizing"
-      },
-      "none": {
-        "value": "{jf.dimension.0}",
-        "type": "sizing"
       }
     },
     "radii": {
@@ -408,10 +408,6 @@
     },
     "inset": {
       "padding": {
-        "none": {
-          "value": "{jf.padding.none} {jf.padding.none}  {jf.padding.none}",
-          "type": "spacing"
-        },
         "xs3": {
           "value": "{jf.padding.xs3} {jf.padding.xs3} {jf.padding.xs3}",
           "type": "spacing"
@@ -461,7 +457,7 @@
     "squish": {
       "padding": {
         "xs3": {
-          "value": "{jf.padding.none} {jf.padding.xs2} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xs2} {jf.padding.0}",
           "type": "spacing"
         },
         "xs2": {
@@ -505,7 +501,7 @@
     "stretch": {
       "padding": {
         "xs3": {
-          "value": "{jf.padding.xs2} {jf.padding.none} {jf.padding.xs2}",
+          "value": "{jf.padding.xs2} {jf.padding.0} {jf.padding.xs2}",
           "type": "spacing"
         },
         "xs2": {
@@ -549,43 +545,43 @@
     "horizontals": {
       "padding": {
         "xs2": {
-          "value": "{jf.padding.none} {jf.padding.xs2} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xs2} {jf.padding.0}",
           "type": "spacing"
         },
         "xs": {
-          "value": "{jf.padding.none} {jf.padding.xs} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xs} {jf.padding.0}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{jf.padding.none} {jf.padding.sm} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.sm} {jf.padding.0}",
           "type": "spacing"
         },
         "md": {
-          "value": "{jf.padding.none} {jf.padding.md} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.md} {jf.padding.0}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{jf.padding.none} {jf.padding.lg} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.lg} {jf.padding.0}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{jf.padding.none} {jf.padding.xl} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xl} {jf.padding.0}",
           "type": "spacing"
         },
         "xl2": {
-          "value": "{jf.padding.none} {jf.padding.xl2} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xl2} {jf.padding.0}",
           "type": "spacing"
         },
         "xl3": {
-          "value": "{jf.padding.none} {jf.padding.xl3} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xl3} {jf.padding.0}",
           "type": "spacing"
         },
         "g": {
-          "value": "{jf.padding.none} {jf.padding.g} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.g} {jf.padding.0}",
           "type": "spacing"
         },
         "xg": {
-          "value": "{jf.padding.none} {jf.padding.xg2} {jf.padding.none}",
+          "value": "{jf.padding.0} {jf.padding.xg2} {jf.padding.0}",
           "type": "spacing"
         }
       }
@@ -593,43 +589,43 @@
     "verticals": {
       "padding": {
         "xs2": {
-          "value": "{jf.padding.xs2} {jf.padding.none} {jf.padding.xs2}",
+          "value": "{jf.padding.xs2} {jf.padding.0} {jf.padding.xs2}",
           "type": "spacing"
         },
         "xs": {
-          "value": "{jf.padding.xs} {jf.padding.none} {jf.padding.xs}",
+          "value": "{jf.padding.xs} {jf.padding.0} {jf.padding.xs}",
           "type": "spacing"
         },
         "sm": {
-          "value": "{jf.padding.sm} {jf.padding.none} {jf.padding.sm}",
+          "value": "{jf.padding.sm} {jf.padding.0} {jf.padding.sm}",
           "type": "spacing"
         },
         "md": {
-          "value": "{jf.padding.md} {jf.padding.none} {jf.padding.md}",
+          "value": "{jf.padding.md} {jf.padding.0} {jf.padding.md}",
           "type": "spacing"
         },
         "lg": {
-          "value": "{jf.padding.lg} {jf.padding.none} {jf.padding.lg}",
+          "value": "{jf.padding.lg} {jf.padding.0} {jf.padding.lg}",
           "type": "spacing"
         },
         "xl": {
-          "value": "{jf.padding.xl} {jf.padding.none} {jf.padding.xl}",
+          "value": "{jf.padding.xl} {jf.padding.0} {jf.padding.xl}",
           "type": "spacing"
         },
         "xl2": {
-          "value": "{jf.padding.xl2} {jf.padding.none} {jf.padding.xl2}",
+          "value": "{jf.padding.xl2} {jf.padding.0} {jf.padding.xl2}",
           "type": "spacing"
         },
         "xl3": {
-          "value": "{jf.padding.xl3} {jf.padding.none} {jf.padding.xl3}",
+          "value": "{jf.padding.xl3} {jf.padding.0} {jf.padding.xl3}",
           "type": "spacing"
         },
         "g": {
-          "value": "{jf.padding.g} {jf.padding.none} {jf.padding.g}",
+          "value": "{jf.padding.g} {jf.padding.0} {jf.padding.g}",
           "type": "spacing"
         },
         "xg": {
-          "value": "{jf.padding.xg} {jf.padding.none} {jf.padding.xg}",
+          "value": "{jf.padding.xg} {jf.padding.0} {jf.padding.xg}",
           "type": "spacing"
         }
       }
@@ -713,7 +709,7 @@
     },
     "animation": {
       "duration": {
-        "zero": {
+        "0": {
           "value": "0ms",
           "type": "animation"
         },
