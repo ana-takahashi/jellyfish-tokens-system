@@ -211,11 +211,11 @@
         "value": "100%",
         "type": "sizing"
       },
-      "vp_full": {
+      "vp-full": {
         "value": "100vw",
         "type": "sizing"
       },
-      "vp_half": {
+      "vp-half": {
         "value": "50vw",
         "type": "sizing"
       },
@@ -227,7 +227,7 @@
         "value": "25%",
         "type": "sizing"
       },
-      "vp_quarter": {
+      "vp-quarter": {
         "value": "25vw",
         "type": "sizing"
       }
@@ -237,11 +237,11 @@
         "value": "100%",
         "type": "sizing"
       },
-      "vp_full": {
+      "vp-full": {
         "value": "100vh",
         "type": "sizing"
       },
-      "vp_half": {
+      "vp-half": {
         "value": "50vh",
         "type": "sizing"
       },
@@ -253,7 +253,7 @@
         "value": "25%",
         "type": "sizing"
       },
-      "vp_quarter": {
+      "vp-quarter": {
         "value": "25vh",
         "type": "sizing"
       }

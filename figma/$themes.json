@@ -58,13 +58,9 @@
       "jf.margin.xg3": "250331568f0d4bc230bb57d1fcfb15766f6804b8",
       "jf.margin.none": "82fd000361e4a72f4bd55bd5e1ed7e3c528ecf07",
       "jf.width.full": "461c09400e77c2c5baad908b38b552c58a77cca6",
-      "jf.width.vp_full": "91eee89ec3b61142f3dbf1830aa6c182c67284a0",
-      "jf.width.vp_half": "39c4eccefdf17cbc1e5c2e4b4ec07e10ffc9245d",
       "jf.width.half": "8a9083b7c5cafbbfc0ebf5da32c9a38c433ae689",
       "jf.width.quarter": "fc3cd63a3d2518bfb693499fab5b3fff531b59fa",
-      "jf.width.vp_quarter": "057ebed731bfbe662756400a9485068cd46d3b9b",
       "jf.height.full": "04aa07da5cc416726e5fc78a66fc23f1fd06abaa",
-      "jf.height.vp_full": "641807d3676c6f5e533a7ccdce2595a608811411",
       "jf.height.vp_half": "4d4b05c48bb26ce2bbd7b1bf387b6e2825d70e2c",
       "jf.height.half": "9f225955a9ba154ed4774e35c5d5ba03e2be0179",
       "jf.height.quarter": "1fd8bd273e71fb9dfffe5e5401ef97bce1610f42",
@@ -100,7 +96,11 @@
       "jf.opacity.lg": "5c9701772e2961a418d78ab8ff1ca8793cdf8105",
       "jf.opacity.xl": "795b403e511fd478c2d3cebdf78c8ced7d3c5350",
       "jf.opacity.total": "f0878455a0212215ee153aa852c6decca1a655a4",
-      "jf.opacity.transparent": "b185e20c1fdd7ad91c2109bccac7dde45e95cced"
+      "jf.opacity.transparent": "b185e20c1fdd7ad91c2109bccac7dde45e95cced",
+      "jf.width.vp-half": "39c4eccefdf17cbc1e5c2e4b4ec07e10ffc9245d",
+      "jf.width.vp-full": "91eee89ec3b61142f3dbf1830aa6c182c67284a0",
+      "jf.width.vp-quarter": "057ebed731bfbe662756400a9485068cd46d3b9b",
+      "jf.height.vp-full": "641807d3676c6f5e533a7ccdce2595a608811411"
     },
     "group": "CORE"
   },
