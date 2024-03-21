@@ -74,8 +74,7 @@
           },
           "inverse": {
             "value": "{jf.scheme.neutral}",
-            "type": "color",
-            "$extensions": {}
+            "type": "color"
           }
         },
         "primary": {
@@ -148,7 +147,7 @@
               }
             }
           },
-          "dinverse": {
+          "inverse": {
             "value": "{jf.scheme.success}",
             "type": "color",
             "$extensions": {

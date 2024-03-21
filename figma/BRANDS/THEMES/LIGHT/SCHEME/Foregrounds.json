@@ -147,7 +147,7 @@
               }
             }
           },
-          "dinverse": {
+          "inverse": {
             "value": "{jf.scheme.success}",
             "type": "color",
             "$extensions": {
