@@ -2,11 +2,11 @@
   "jf": {
     "scheme": {
       "primary": {
-        "value": "rgba(118, 69, 214, 1)",
+        "value": "#7645D6",
         "type": "color"
       },
       "secondary": {
-        "value": "#1a8f89",
+        "value": "#25b5ae",
         "type": "color"
       },
       "success": {
@@ -87,7 +87,7 @@
           "type": "other"
         },
         "8": {
-          "value": "0.20",
+          "value": "0.25",
           "type": "other"
         },
         "9": {
