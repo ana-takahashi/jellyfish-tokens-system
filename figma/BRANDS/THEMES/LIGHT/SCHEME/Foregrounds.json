@@ -23,7 +23,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -51,7 +51,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.3}",
+                  "value": "{jf.scheme.modifier-amount.5}",
                   "space": "hsl"
                 }
               }
@@ -70,7 +70,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.3}",
+                  "value": "{jf.scheme.modifier-amount.5}",
                   "space": "hsl"
                 }
               }
@@ -85,7 +85,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.scheme.modifier-amount.8} ",
+                  "value": "{jf.scheme.modifier-amount.9} ",
                   "space": "hsl"
                 }
               }
@@ -98,7 +98,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.2} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -126,7 +126,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.2} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -154,7 +154,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.2}",
+                  "value": "{jf.scheme.modifier-amount.5}",
                   "space": "hsl"
                 }
               }
@@ -210,7 +210,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.2} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -238,7 +238,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.3} ",
+                  "value": "{jf.scheme.modifier-amount.2} ",
                   "space": "hsl"
                 }
               }
@@ -253,7 +253,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "darken",
-                  "value": "{jf.scheme.modifier-amount.5} ",
+                  "value": "{jf.scheme.modifier-amount.4} ",
                   "space": "hsl"
                 }
               }
@@ -266,7 +266,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.3} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -294,7 +294,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.2} ",
+                  "value": "{jf.scheme.modifier-amount.5} ",
                   "space": "hsl"
                 }
               }
@@ -350,7 +350,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.4} ",
+                  "value": "{jf.scheme.modifier-amount.2} ",
                   "space": "hsl"
                 }
               }
@@ -378,7 +378,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.3} ",
+                  "value": "{jf.scheme.modifier-amount.2} ",
                   "space": "hsl"
                 }
               }
@@ -406,7 +406,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "lighten",
-                  "value": "{jf.scheme.modifier-amount.4} ",
+                  "value": "{jf.scheme.modifier-amount.2} ",
                   "space": "hsl"
                 }
               }

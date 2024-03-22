@@ -183,14 +183,87 @@
           "paragraphSpacing": "{jf.margin.xl2}"
         },
         "type": "composition"
-      },
-      "title": {
-        "lg": {
-          "value": {
-            "typography": "{jf.title.md}",
-            "paragraphSpacing": "{jf.margin.xl3)"
+      }
+    },
+    "link": {
+      "fg": {
+        "enabled": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color"
           },
-          "type": "composition"
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "visited": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "default-copy": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "selected": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "default-copy": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.state.opacity.disabled}",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.state.opacity.disabled}",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
         }
       }
     }

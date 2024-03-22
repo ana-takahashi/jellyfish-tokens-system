@@ -1,0 +1,17 @@
+{
+  "jf": {
+    "link": {
+      "enabled": {
+        "xl": {
+          "default": {
+            "value": {
+              "typography": "{jf.body.lg}",
+              "fill": "{jf.link.fg.enabled.default}"
+            },
+            "type": "composition"
+          }
+        }
+      }
+    }
+  }
+}

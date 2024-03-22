@@ -26,8 +26,8 @@
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "alpha",
-                  "value": "{jf.opacity.sm} ",
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.2} ",
                   "space": "hsl"
                 }
               }
