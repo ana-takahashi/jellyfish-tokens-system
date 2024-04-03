@@ -96,11 +96,29 @@
         },
         "dataviz6": {
           "value": "{jf.scheme.dataviz6}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "darken",
+                "value": "{jf.scheme.modifier-amount.9} ",
+                "space": "hsl"
+              }
+            }
+          }
         },
         "dataviz7": {
           "value": "{jf.scheme.dataviz7}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "lighten",
+                "value": "{jf.scheme.modifier-amount.9} ",
+                "space": "hsl"
+              }
+            }
+          }
         }
       }
     }

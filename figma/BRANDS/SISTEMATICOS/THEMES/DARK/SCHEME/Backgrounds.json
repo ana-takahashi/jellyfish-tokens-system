@@ -75,7 +75,7 @@
             "studio.tokens": {
               "modify": {
                 "type": "darken",
-                "value": "{jf.scheme.modifier-amount.5} ",
+                "value": "{jf.scheme.modifier-amount.7} ",
                 "space": "hsl"
               }
             }

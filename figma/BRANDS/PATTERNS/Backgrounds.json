@@ -20,14 +20,27 @@
               }
             }
           },
-          "selected": {
-            "value": "{jf.scheme.bg.surface-main}",
+          "hover-alt": {
+            "value": "{jf.scheme.primary}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "darken",
-                  "value": "{jf.state.modifier-amount.selected} ",
+                  "type": "alpha",
+                  "value": "{jf.opacity.sm}",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{jf.scheme.bg.primary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.opacity.sm} ",
                   "space": "hsl"
                 }
               }
@@ -753,14 +766,27 @@
               }
             }
           },
-          "selected": {
-            "value": "{jf.transparent.bg.surface-main.enabled}",
+          "hover-alt": {
+            "value": "{jf.scheme.bg.primary}",
             "type": "color",
             "$extensions": {
               "studio.tokens": {
                 "modify": {
-                  "type": "darken",
-                  "value": "{jf.state.modifier-amount.selected} ",
+                  "type": "alpha",
+                  "value": "{jf.opacity.xs}",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "selected": {
+            "value": "{jf.scheme.bg.primary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.opacity.sm}",
                   "space": "hsl"
                 }
               }
@@ -950,7 +976,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{jf.opacity.xs}",
+                  "value": "{jf.opacity.sm}",
                   "space": "hsl"
                 }
               }
@@ -1112,7 +1138,7 @@
               "studio.tokens": {
                 "modify": {
                   "type": "alpha",
-                  "value": "{jf.opacity.xs}",
+                  "value": "{jf.opacity.sm}",
                   "space": "hsl"
                 }
               }

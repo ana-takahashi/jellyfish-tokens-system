@@ -1,0 +1,22 @@
+{
+  "jf": {
+    "form": {
+      "base": {
+        "height": {
+          "sm": {
+            "value": "{jf.size.lg}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{jf.size.xl2}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{jf.size.xl3}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

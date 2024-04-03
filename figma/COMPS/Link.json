@@ -1,0 +1,134 @@
+{
+  "jf": {
+    "link": {
+      "fg": {
+        "enabled": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "visited": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "default-copy": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "selected": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "default-copy": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "default": {
+            "value": "{jf.fg.primary.enabled.default}",
+            "type": "color"
+          },
+          "inverse": {
+            "value": "{jf.fg.primary.enabled.inverse}",
+            "type": "color"
+          }
+        },
+        "disabled": {
+          "default": {
+            "value": "{jf.fg.moderate.enabled.default}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.font.state.opacity.disabled}",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.fg.moderate.enabled.inverse}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{jf.font.state.opacity.disabled}",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      },
+      "xl": {
+        "value": {
+          "fontSize": "{jf.font-size.body.xl}",
+          "lineHeight": "{jf.line-height.body.xl}",
+          "letterSpacing": "{jf.letter-spacing.body.xl}",
+          "textCase": "{jf.text-transform.body}",
+          "fontFamily": "{jf.font-family.plain}",
+          "textDecoration": "underline",
+          "fontWeight": "{jf.font-weight.body-medium}"
+        },
+        "type": "typography"
+      },
+      "lg": {
+        "value": {
+          "fontSize": "{jf.font-size.body.lg}",
+          "lineHeight": "{jf.line-height.body.lg}",
+          "letterSpacing": "{jf.letter-spacing.body.lg}",
+          "textCase": "{jf.text-transform.body}",
+          "fontFamily": "{jf.font-family.plain}",
+          "fontWeight": "{jf.font-weight.body-medium}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "md": {
+        "value": {
+          "fontSize": "{jf.font-size.body.md}",
+          "lineHeight": "{jf.line-height.body.md}",
+          "letterSpacing": "{jf.letter-spacing.body.md}",
+          "textCase": "{jf.text-transform.body}",
+          "fontFamily": "{jf.font-family.plain}",
+          "fontWeight": "{jf.font-weight.body-medium}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      },
+      "sm": {
+        "value": {
+          "fontSize": "{jf.font-size.body.sm}",
+          "lineHeight": "{jf.line-height.body.sm}",
+          "letterSpacing": "{jf.letter-spacing.body.sm}",
+          "textCase": "{jf.text-transform.body}",
+          "fontFamily": "{jf.font-family.plain}",
+          "fontWeight": "{jf.font-weight.body-medium}",
+          "textDecoration": "underline"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

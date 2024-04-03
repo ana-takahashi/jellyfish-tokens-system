@@ -1,28 +1,17 @@
 {
   "jf": {
     "state": {
-      "opacity": {
-        "dragged": {
-          "value": "{jf.opacity.lg}",
-          "type": "opacity"
-        },
-        "disabled": {
-          "value": "{jf.opacity.sm}",
-          "type": "opacity",
-          "description": "Opacity for disabled state components"
-        }
-      },
       "modifier-amount": {
         "focus": {
           "value": "{jf.scheme.modifier-amount.9}",
           "type": "other"
         },
         "selected": {
-          "value": "{jf.scheme.modifier-amount.9}",
+          "value": "{jf.scheme.modifier-amount.7}",
           "type": "other"
         },
         "hover": {
-          "value": "{jf.scheme.modifier-amount.8}",
+          "value": "{jf.scheme.modifier-amount.7}",
           "type": "other"
         }
       },
@@ -35,6 +24,19 @@
               "blur": "0",
               "spread": "4",
               "color": "rgba({jf.scheme.primary}, {jf.opacity.md})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "secondary": {
+          "focus": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "4",
+              "color": "rgba({jf.scheme.secondary}, {jf.opacity.md})",
               "type": "dropShadow"
             },
             "type": "boxShadow"
@@ -183,6 +185,10 @@
             "type": "boxShadow"
           }
         }
+      },
+      "transition": {
+        "value": "{jf.animation.duration.xl}",
+        "type": "other"
       }
     }
   }

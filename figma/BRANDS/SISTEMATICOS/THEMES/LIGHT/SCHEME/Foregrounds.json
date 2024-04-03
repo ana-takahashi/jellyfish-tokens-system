@@ -1,0 +1,428 @@
+{
+  "jf": {
+    "scheme": {
+      "fg": {
+        "strong": {
+          "default": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.4} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "moderate": {
+          "default": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.7} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.2}",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "muted": {
+          "default": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.9} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.neutral}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.3}",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "primary": {
+          "default": {
+            "value": "{jf.scheme.primary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.9} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.primary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.3} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{jf.scheme.secondary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.6} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.secondary}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "success": {
+          "default": {
+            "value": "{jf.scheme.success}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.7} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.success}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1}",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "critical": {
+          "default": {
+            "value": "{jf.scheme.critical}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.7} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.critical}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "warning": {
+          "default": {
+            "value": "{jf.scheme.warning}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.5} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.warning}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.3} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz1": {
+          "default": {
+            "value": "{jf.scheme.dataviz1}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.6} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz1}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz2": {
+          "default": {
+            "value": "{jf.scheme.dataviz2}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.4} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz2}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz3": {
+          "default": {
+            "value": "{jf.scheme.dataviz3}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.7} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz3}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.5} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz4": {
+          "default": {
+            "value": "{jf.scheme.dataviz4}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.4} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz4}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz5": {
+          "default": {
+            "value": "{jf.scheme.dataviz5}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.6} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz5}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz6": {
+          "default": {
+            "value": "{jf.scheme.dataviz6}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.9} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz6}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "dataviz7": {
+          "default": {
+            "value": "{jf.scheme.dataviz7}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "darken",
+                  "value": "{jf.scheme.modifier-amount.7} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          },
+          "inverse": {
+            "value": "{jf.scheme.dataviz7}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "lighten",
+                  "value": "{jf.scheme.modifier-amount.1} ",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

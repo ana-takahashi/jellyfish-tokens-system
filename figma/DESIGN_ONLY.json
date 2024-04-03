@@ -467,6 +467,17 @@
           },
           "type": "typography"
         },
+        "xl": {
+          "value": {
+            "fontFamily": "{jf.font-family.brand}",
+            "fontWeight": "{jf.font-weight.label}",
+            "lineHeight": "{jf.line-height.label.xl}",
+            "fontSize": "{jf.font-size.label.xl}",
+            "letterSpacing": "{jf.letter-spacing.label.xl}",
+            "textCase": "{jf.text-transform.label}"
+          },
+          "type": "typography"
+        },
         "md": {
           "value": {
             "fontFamily": "{jf.font-family.brand}",

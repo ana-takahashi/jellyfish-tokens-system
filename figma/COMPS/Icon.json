@@ -1,0 +1,38 @@
+{
+  "jf": {
+    "icon": {
+      "base": {
+        "size": {
+          "xs": {
+            "value": "{jf.size.xs2}",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "{jf.size.xs}",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "{jf.size.sm}",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "{jf.size.md}",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "{jf.size.lg}",
+            "type": "sizing"
+          },
+          "xl2": {
+            "value": "{jf.size.xl}",
+            "type": "sizing"
+          },
+          "xl3": {
+            "value": "{jf.size.xl2}",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

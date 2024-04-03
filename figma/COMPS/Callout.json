@@ -1,0 +1,24 @@
+{
+  "jf": {
+    "callout": {
+      "base": {
+        "paddings": {
+          "value": "{jf.stretch.padding.md}",
+          "type": "spacing"
+        },
+        "radii": {
+          "value": "{jf.radii.lg}",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "content": {
+      "inline": {
+        "gap": {
+          "value": "{jf.gap.md}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

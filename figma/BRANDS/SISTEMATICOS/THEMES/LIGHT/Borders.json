@@ -1,7 +1,7 @@
 {
   "jf": {
     "border-color": {
-      "default": {
+      "strong": {
         "value": "{jf.scheme.neutral}",
         "type": "color"
       },

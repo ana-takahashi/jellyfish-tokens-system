@@ -1,0 +1,12 @@
+{
+  "jf": {
+    "form": {
+      "placeholder": {
+        "font": {
+          "value": "{jf.typography.label.lg}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}
